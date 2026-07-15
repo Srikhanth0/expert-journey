@@ -11,15 +11,6 @@
 * **Languages:** Python 3.x
 * **Libraries/Tools:** `requests`, `json`, (Add more as you learn them!)
 
----
-
-## 📅 Project Log
-
-| Day | Date | Project Name | Description | Link |
-|:---:|:----:|:-------------|:------------|:-----|
-| **01** | Oct 25 | 🌍 Global Weather Dashboard | A CLI app that fetches a 5-day forecast for any city using the Open-Meteo API. | [View Code](./day-01-weather-app) |
-| **02** | Oct 26 | 🚧 *Coming Soon* | ... | ... |
-| **03** | Oct 27 | 🚧 *Coming Soon* | ... | ... |
 
 ---
 
